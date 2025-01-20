@@ -19,7 +19,7 @@ To get started with the project, clone the repository and install the necessary 
 
 bash
 
-git clone https://github.com/codewithshek/C-Web-Dev-Intern-Project-by-Codelevatee.git
+git clone https://github.com/codewithshek/Web-Development-Intern-Project-by-Codelevatee.git
 
 cd C-Web-Dev-Intern-Project-by-Codelevatee/Project-1
 
