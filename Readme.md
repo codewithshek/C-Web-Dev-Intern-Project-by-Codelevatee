@@ -6,8 +6,8 @@ This project involves creating a modern, responsive landing page for the Blue Bl
 
 # Directory structure
 
-github.com/codewithshek/codewithshek-web-development-intern-project-by-codelevatee/
-   
+github.com/codewithshek/web-development-intern-project-by-codelevatee/
+
     ├── Readme.md
     └── Project-1/
         ├── eslint.config.js
