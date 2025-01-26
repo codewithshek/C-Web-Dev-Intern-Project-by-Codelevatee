@@ -1,14 +1,18 @@
 # PROJECT -- 01    
    
-# Blue Black Team Landing Page
+> Blue Black Team Landing Page
 
 This project involves creating a modern, responsive landing page for the Blue Black Team using React, TypeScript, and Tailwind CSS. The landing page includes several sections such as a hero section, about section, projects section, team section, and a contact section. The design focuses on a minimalist blue and black color scheme with enhanced visual elements like gradients, animations, and hover effects. The page is fully responsive, ensuring compatibility across desktops, tablets, and mobile devices. Additionally, the project adheres to basic SEO practices and web accessibility standards.
 
 # PROJECT -- 02
 
+> Develop A Basic Patient Appointment Scheduling System For A Small Clinic
+
 This project involves creating a robust and user-friendly appointment scheduling system using React, TypeScript, and Tailwind CSS. The application will feature several key sections, including a registration/login form, doctor profiles, an appointment calendar, and user management functionalities. The design will follow a clean, minimalist approach with a blue and black color scheme, enhanced by smooth animations, hover effects, and gradient backgrounds. The application will be fully responsive, ensuring optimal performance across desktops, tablets, and mobile devices.
 
 # PROJECT -- 03
+
+> Create A Simple Health Tips Website
 
 This project involves creating an informative and user-friendly health and wellness website using HTML and CSS. The website serves as a comprehensive resource for users seeking health-related information and lifestyle tips. The site features multiple interconnected sections including a welcoming homepage, specialized health tip categories, and an interactive contact section.
 
