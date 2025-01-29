@@ -1,5 +1,5 @@
 # PROJECT -- 01     
-   
+
 > Blue Black Team Landing Page
 
 This project involves creating a modern, responsive landing page for the Blue Black Team using React, TypeScript, and Tailwind CSS. The landing page includes several sections such as a hero section, about section, projects section, team section, and a contact section. The design focuses on a minimalist blue and black color scheme with enhanced visual elements like gradients, animations, and hover effects. The page is fully responsive, ensuring compatibility across desktops, tablets, and mobile devices. Additionally, the project adheres to basic SEO practices and web accessibility standards.
